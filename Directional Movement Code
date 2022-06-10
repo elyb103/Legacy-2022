@@ -1,0 +1,33 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DirectionalMovement : MonoBehaviour
+{
+    private Vector2 m_Direction = Vector2.zero;
+
+    public Vector2 Direction { get => Direction1; set => Direction1 = value; }
+    public Vector2 Direction1 { get => Direction3; set => Direction3 = value; }
+    public Vector2 Direction2 { get => Direction3; set => Direction3 = value; }
+    public Vector2 Direction3 { get => m_Direction; set => m_Direction = value; }
+
+    void Update(GameObject gameObject)
+    {
+
+        Vector2 moveDirection = GetComponent<Vector2>();
+        if (moveDirection != Vector2.zero)
+        {
+            float angle = Mathf.Atan2(moveDirection.y, moveDirection.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+        }
+        Debug.Log(moveDirection);
+        
+        void DirectionalMovement()
+       {
+            float mx = Input.GetAxisRaw("Horizontal");
+            float my = Input.GetAxisRaw("Vertical");
+
+        }
+    }
+   
+}
