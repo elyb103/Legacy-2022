@@ -8,12 +8,13 @@ public class SimpleAiMovement : MonoBehaviour
     [SerializeField] Transform target;
     NavMeshAgent agent;
 
-    [SerializeField] Transform moveSpots;
+    [SerializeField] Transform[] moveSpots;
     public float speed;
     public float startWaitTime;
 
     private int randomSpot;
     private float waitTime;
+    private float stalltime = 4;
 
     
 
@@ -25,7 +26,7 @@ public class SimpleAiMovement : MonoBehaviour
         if (other.gameObject.tag == "Player")
         {
             target = other.transform;
-            Debug.Log(target);
+
 
         }
     }
@@ -38,11 +39,11 @@ public class SimpleAiMovement : MonoBehaviour
             
         }
     }
-
+    
     // Start is called before the first frame update
     void Start()
     {
-        
+
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
@@ -62,9 +63,35 @@ public class SimpleAiMovement : MonoBehaviour
 
         }
 
+        else
+        {
+            if (stalltime > 0)
+            {
+                stalltime -= Time.deltaTime;
+            }
+            else
+            {
+                agent.SetDestination(moveSpots[randomSpot].position);
+                // transform.position = Vector2.MoveTowards(transform.position, moveSpots[randomSpot].position, speed * Time.deltaTime);
 
+                if (Vector2.Distance(transform.position, moveSpots[randomSpot].position) < 0.2f)
+                {
+                    if (waitTime <= 0)
+                    {
+                        waitTime = startWaitTime;
+                        randomSpot = Random.Range(0, moveSpots.Length);
+                        Debug.Log(moveSpots[randomSpot]);
+
+                    }
+                    else
+                    {
+                        waitTime -= Time.deltaTime;
+                    }
+
+                }
+
+            }
+
+        }
     }
-
-    
-
 }
