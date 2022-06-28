@@ -14,8 +14,10 @@ public class SimpleAiMovement : MonoBehaviour
 
     private int randomSpot;
     private float waitTime;
-    private float stalltime = 4;
-
+    private float stalltime = 0;
+    private float oldx;
+    
+    
     
 
     // public Transform player;
@@ -26,6 +28,7 @@ public class SimpleAiMovement : MonoBehaviour
         if (other.gameObject.tag == "Player")
         {
             target = other.transform;
+            Debug.Log(target.position);
 
 
         }
@@ -43,7 +46,8 @@ public class SimpleAiMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        oldx = transform.position.x;
+        
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
@@ -54,12 +58,24 @@ public class SimpleAiMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (oldx > transform.position.x)
+        {
+            rb.rotation = 0;
+        } 
+        else if (oldx < transform.position.x)
+        {
+            rb.rotation = 180;
+        }
         if (target != null)
         {
-            agent.SetDestination(target.position);
-            Vector3 direction = target.position - transform.position;
-            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-            rb.rotation = angle;
+            if (Vector2.Distance(transform.position, moveSpots[randomSpot].position) > 0.4f)
+            {
+                agent.SetDestination(target.position);
+            }
+            if (stalltime <= 0)
+            {
+                stalltime = 10;
+            }
 
         }
 
@@ -93,5 +109,44 @@ public class SimpleAiMovement : MonoBehaviour
             }
 
         }
+
+        oldx = transform.position.x;
+
+
+
+    }
+
+
+
+}
+
+
+
+/*
+bool CanSeePlayer(float distance)
+{
+    bool val = false;
+    float castDist = distance;
+
+    Vector2 endPos = Castpoint.position + Vector3 * distance
+        RaycastHit2D hit = Physics2D.Linecast(castPoint, endPos, 1 << LayerMask.NameToLayer("Action"));
+
+    if (hit.collider != null)
+    {
+        if (hit.collider.gameObject.CompareTag("Player"))
+        {
+            //Agro Enemy
+            var agentDestination = target.posistion
+            }
+        else
+        {
+            if (agentDestination != null)
+            {
+
+            }
+        }
     }
 }
+*/
+
+
