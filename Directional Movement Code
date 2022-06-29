@@ -1,33 +1,52 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class DirectionalMovement : MonoBehaviour
+public class SpriteChange : MonoBehaviour
 {
-    private Vector2 m_Direction = Vector2.zero;
 
-    public Vector2 Direction { get => Direction1; set => Direction1 = value; }
-    public Vector2 Direction1 { get => Direction3; set => Direction3 = value; }
-    public Vector2 Direction2 { get => Direction3; set => Direction3 = value; }
-    public Vector2 Direction3 { get => m_Direction; set => m_Direction = value; }
-
-    void Update(GameObject gameObject)
+    public Sprite spriteA;
+    public Sprite spriteB;
+    public Sprite spriteC;
+    public Sprite spriteD;  
+    public Sprite spriteE;
+    public Sprite spriteF;
+    public Sprite spriteG;
+    public Sprite spriteH;
+    void Update()
     {
-
-        Vector2 moveDirection = GetComponent<Vector2>();
-        if (moveDirection != Vector2.zero)
+        if (Input.GetKeyDown(key: KeyCode.DownArrow))
         {
-            float angle = Mathf.Atan2(moveDirection.y, moveDirection.x) * Mathf.Rad2Deg;
-            transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+            GetComponent<SpriteRenderer>().sprite = spriteA;
         }
-        Debug.Log(moveDirection);
-        
-        void DirectionalMovement()
-       {
-            float mx = Input.GetAxisRaw("Horizontal");
-            float my = Input.GetAxisRaw("Vertical");
-
+        if (Input.GetKeyUp(KeyCode.DownArrow))
+        {
+            GetComponent<SpriteRenderer>().sprite = spriteB;
+        }
+        if (Input.GetKeyDown(key: KeyCode.UpArrow))
+        {
+            GetComponent<SpriteRenderer>().sprite = spriteC;
+        }
+        if (Input.GetKeyUp(KeyCode.UpArrow))
+        {
+            GetComponent<SpriteRenderer>().sprite = spriteD;
+        }
+        if (Input.GetKeyDown(key: KeyCode.RightArrow))
+        {
+            GetComponent<SpriteRenderer>().sprite = spriteE;
+        }
+        if (Input.GetKeyUp(KeyCode.RightArrow))
+        {
+            GetComponent<SpriteRenderer>().sprite = spriteF;
+        }
+        if (Input.GetKeyDown(key: KeyCode.LeftArrow))
+        {
+            GetComponent<SpriteRenderer>().sprite = spriteG;
+        }
+        if (Input.GetKeyUp(KeyCode.LeftArrow))
+        {
+            GetComponent<SpriteRenderer>().sprite = spriteH;
         }
     }
-   
 }
