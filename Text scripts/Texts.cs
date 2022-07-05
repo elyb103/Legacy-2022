@@ -7,6 +7,7 @@ using UnityEngine.UI;
 //**Prerequisites for code**
 //Need an image object as background with a child text object overlayed, text must be the *Legacy* version
 //Newer TMP text WILL NOT work!!!
+//Lastly, set parent image object as unseen to start.
 
 //**Usage**
 //Assign script to NPC sprite, put the image object as the "Dialog Box" variable, text object
