@@ -98,7 +98,7 @@ public class SuperTextScript : MonoBehaviour
         //Specify where in a dialogue queue you want there to be a split path and what key will
         //trigger the split.
         //Add else if statement for a different path
-        //For splitting within splits make a new if statement entirely.
+        //For splitting within splits make a new if statement entirely using this format.
         if(Input.GetKeyDown(KeyCode.Return) && playerInRange && arry[SentenceCount] == dialog[3]){
             
             //Sends a log that the path change has started
