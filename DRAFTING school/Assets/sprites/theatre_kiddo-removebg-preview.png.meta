@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 6a95f0f5377db8544bc284d9df40ea9a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f95f73426435043ac5e6ff06dcbbec
+      internalID: 1771905566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b63682938bd144b9242773ee48d2f
+      internalID: 732808353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 195
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8603da76784b45419113627c0b1f54a
+      internalID: -7308116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 195
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd6e9f8f4b5d149918f1eaeaa33a12
+      internalID: -1871971793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 195
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39149d53854538a4ea19ec0cfdc1eac9
+      internalID: -2049057994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6ed6ecf3371a4783789659f9e5a46
+      internalID: 1004417372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 130
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead9237e728b17c4f8ec9a6aa7a581bf
+      internalID: -1045084944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 130
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fc4dc0a25f25a43960fe60b5e438b7
+      internalID: 1479022605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 130
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b7af1283244084aa2f5b139e267c7a
+      internalID: -1232166184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8850123e9525f9f43808664b7c8b5146
+      internalID: -1963531231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f2c9b85e214994f82a3bf47d91d525
+      internalID: 1685904035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 65
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37568527b1125488d7764d29531354
+      internalID: 808092844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad986d9309a42e94a904dd663cd0604b
+      internalID: 69765059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60eec5f19c4ad84abe66731284f3d96
+      internalID: 1600905455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 65
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47c85497d980d84c8efe018b071405a
+      internalID: 875119660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55170d1bd2d8d2643a87cb895c34ddda
+      internalID: -1897032474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0818c4a371e262499d06aebfc8c415a
+      internalID: -917732069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e427df595bab4d803bd2946122aba
+      internalID: 929369224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b9dab29682a7841aedcd6a75e09aa3
+      internalID: 1954014666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theatre_kiddo-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55.2
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70061a582941f408ac1af2b62ffefd
+      internalID: 942831421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      theatre_kiddo-removebg-preview_5: 1004417372
+      theatre_kiddo-removebg-preview_16: -917732069
+      theatre_kiddo-removebg-preview_6: -1045084944
+      theatre_kiddo-removebg-preview_9: -1963531231
+      theatre_kiddo-removebg-preview_13: 1600905455
+      theatre_kiddo-removebg-preview_14: 875119660
+      theatre_kiddo-removebg-preview_17: 929369224
+      theatre_kiddo-removebg-preview_11: 808092844
+      theatre_kiddo-removebg-preview_2: -7308116
+      theatre_kiddo-removebg-preview_12: 69765059
+      theatre_kiddo-removebg-preview_18: 1954014666
+      theatre_kiddo-removebg-preview_15: -1897032474
+      theatre_kiddo-removebg-preview_10: 1685904035
+      theatre_kiddo-removebg-preview_19: 942831421
+      theatre_kiddo-removebg-preview_0: 1771905566
+      theatre_kiddo-removebg-preview_1: 732808353
+      theatre_kiddo-removebg-preview_8: -1232166184
+      theatre_kiddo-removebg-preview_3: -1871971793
+      theatre_kiddo-removebg-preview_4: -2049057994
+      theatre_kiddo-removebg-preview_7: 1479022605
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

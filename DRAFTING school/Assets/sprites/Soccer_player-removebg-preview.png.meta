@@ -1,0 +1,926 @@
+fileFormatVersion: 2
+guid: 53692dc4a85b03840a7b3466a1e6961c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2e9ce08ee39645904e3554ae1fec5
+      internalID: -373518287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e7f6dddc83c06468d073a5d135d301
+      internalID: -724568742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e619af8586d04c85cd4f83358f56d
+      internalID: -1998078104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac02265d59f4cd45b6955acc86e38c5
+      internalID: 1579260876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a1d5a90288e745a6186510cc02335
+      internalID: 769165427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2e92519956494e9bfc1b6b407c86b
+      internalID: 1120621487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d09715bf54ad9d4c8054e049edb1755
+      internalID: 942066404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c0419cb3a198341bfd3829cfe3e931
+      internalID: 1581571655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d338ea50945d849858313768644e56
+      internalID: -720873608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a8e0c20ecb9745bff01f519276456
+      internalID: -2014815931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95a3d980819d354fa7d1c6583cc1907
+      internalID: 1995953722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 133.33334
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc897af13579e45ba0137eaa650329
+      internalID: 964284158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc5462bfccccc42a2afe8a358a3d14
+      internalID: -1359644998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60919b0247c924e909a81f2368a911
+      internalID: -1239043413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af20887aef0225d428b9afbc0e9b22a5
+      internalID: -1841521882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0f1a9e064d0b24f918afc0825842c9
+      internalID: -73138372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e9c0f56896074187c25b03bec334d
+      internalID: -93555111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c4374cd369c54e8e8928199db75d9
+      internalID: -745693626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e2ff4410ac6c47895f31bdefc0af8
+      internalID: -1927504790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56b846a07fb5524fa4fd34e7bab30cd
+      internalID: 751057509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b98b7f73fa3eb4889d51269fed75f0
+      internalID: -311345486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec2e97a989f2284683b15024d57dfb6
+      internalID: -2137718629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e33e981e8e97449267ef3d692a684
+      internalID: -1866670263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 67.333336
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eaec3a988e84a44b5b49119f8e47db
+      internalID: 1767630326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24152d69bc5c524b98f20fc07023e80
+      internalID: 1559844776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531b438f4fda9948a0a396f509ec8da
+      internalID: -834153893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c466a545763e99043b43d03b7e2229aa
+      internalID: 2147116091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e1cfe326ee324291f791f93bb6e1c
+      internalID: -372269853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfd7f6a1c191a240b9d75505d0d6978
+      internalID: 1143347383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053c0bdd96a038f499a8e9fee0400685
+      internalID: -2052576510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcedac8b17c7644c8a8748a1191cea9
+      internalID: -1384126562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb7944794650d743b2f72db3dd1f1a4
+      internalID: -67541470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4652cc149ea448b4fcc3d9d70803e
+      internalID: -351833789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84023550837a240a387f57bc0479ec
+      internalID: 1853989209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e944756d5a1073a48bef33ef8ae5abce
+      internalID: -1119983525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_player-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1.3333359
+        width: 53.666668
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc5a1810d308146a4c5f5096d93aca
+      internalID: 252439277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Soccer_player-removebg-preview_34: -1119983525
+      Soccer_player-removebg-preview_0: -373518287
+      Soccer_player-removebg-preview_2: -1998078104
+      Soccer_player-removebg-preview_29: -2052576510
+      Soccer_player-removebg-preview_31: -67541470
+      Soccer_player-removebg-preview_35: 252439277
+      Soccer_player-removebg-preview_28: 1143347383
+      Soccer_player-removebg-preview_7: 1581571655
+      Soccer_player-removebg-preview_10: 1995953722
+      Soccer_player-removebg-preview_11: 964284158
+      Soccer_player-removebg-preview_8: -720873608
+      Soccer_player-removebg-preview_14: -1841521882
+      Soccer_player-removebg-preview_1: -724568742
+      Soccer_player-removebg-preview_15: -73138372
+      Soccer_player-removebg-preview_18: -1927504790
+      Soccer_player-removebg-preview_26: 2147116091
+      Soccer_player-removebg-preview_17: -745693626
+      Soccer_player-removebg-preview_6: 942066404
+      Soccer_player-removebg-preview_19: 751057509
+      Soccer_player-removebg-preview_22: -1866670263
+      Soccer_player-removebg-preview_5: 1120621487
+      Soccer_player-removebg-preview_33: 1853989209
+      Soccer_player-removebg-preview_32: -351833789
+      Soccer_player-removebg-preview_23: 1767630326
+      Soccer_player-removebg-preview_24: 1559844776
+      Soccer_player-removebg-preview_12: -1359644998
+      Soccer_player-removebg-preview_13: -1239043413
+      Soccer_player-removebg-preview_25: -834153893
+      Soccer_player-removebg-preview_9: -2014815931
+      Soccer_player-removebg-preview_3: 1579260876
+      Soccer_player-removebg-preview_27: -372269853
+      Soccer_player-removebg-preview_4: 769165427
+      Soccer_player-removebg-preview_20: -311345486
+      Soccer_player-removebg-preview_21: -2137718629
+      Soccer_player-removebg-preview_16: -93555111
+      Soccer_player-removebg-preview_30: -1384126562
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

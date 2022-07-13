@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: afb52e6d3ae380e4591a08c2337b7a5b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6990e59b1e086ca45bf012a90bd0c7b5
+      internalID: -1008026818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 268.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e8067fd2d7824689c35fab883321d
+      internalID: -518625854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 268.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ecf74db4ba2a47a51f8dde0bfcadd
+      internalID: -32713091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 268.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e09037e2a109c498edc9c31618d0d8
+      internalID: -1343490611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 268.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90287866d0242a246bf7a2185665be20
+      internalID: -897852621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 268.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8947ab0bd68304e4d8e4994ed4765db7
+      internalID: 144921441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72ed6f2a063744a8fe0f97ac4ce07a
+      internalID: 1801469981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 201.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f043ed5060874f81d3c24262abd11
+      internalID: -1337465443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 201.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d9e6195cec634f8b49120b75711a9
+      internalID: 1058114612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 201.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151c31f248fd0b47929fd34923ab8d5
+      internalID: -315299467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 201.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31a9818948506f42a1ba6db8341bc3f
+      internalID: 894251061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 201.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df630df44c8505e4d9af819196a51bab
+      internalID: -1646931203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4951ca8039e7934f8ca8ec13836910a
+      internalID: -1483592446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 134.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d686de4735ca004b9b117e7adbdab53
+      internalID: 347645061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 134.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7e5c05040a03459f406243a43a7d7
+      internalID: -2067025360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 134.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b9ed12c1edf90418ec63c70339dddd
+      internalID: -1164448998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1600d29f5626548831311be5b36bcd
+      internalID: 2075234508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 134.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2192e17084ad848a61a165df1d8b90
+      internalID: -432717094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe691406e66e6468196f526d5e0b84
+      internalID: 548683204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 72
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 9, z: 16, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6db833d200ea4999612260f441563
+      internalID: 1604122630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 68
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b3a5be41908d24788a8ac2d61e8ff0
+      internalID: 956805236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 72
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 10, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3137832040899428584d759f558a85
+      internalID: -1811070227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 10, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ccf167a28e9a41bbce2f35a05d1b4
+      internalID: -1458199452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 67.8
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056df6b408d127049b6b332f16ee3487
+      internalID: -1443321036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c18f9032df35c46b8ea08379b8483a
+      internalID: 867108390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 7
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 9, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d452789a94cfecc45b1ccf4c0b523297
+      internalID: -791858911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 7
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 10, z: 12, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a87a8cfde1210418a0a127801d5042
+      internalID: 624368745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 7
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 9, z: 10, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064180d8fdb7b5449acba4c240a9846f
+      internalID: 287209046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 8, z: 10, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740311de125e494abc7885cadc3596a
+      internalID: -1249327653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science-teacher-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0.80000305
+        width: 54
+        height: 67.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06ac08794201e4a8d1b110fe72242a
+      internalID: 656755461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      science-teacher-removebg-preview_4: -897852621
+      science-teacher-removebg-preview_0: -1008026818
+      science-teacher-removebg-preview_3: -1343490611
+      science-teacher-removebg-preview_11: -1646931203
+      science-teacher-removebg-preview_29: 656755461
+      science-teacher-removebg-preview_20: 956805236
+      science-teacher-removebg-preview_1: -518625854
+      science-teacher-removebg-preview_21: -1811070227
+      science-teacher-removebg-preview_23: -1443321036
+      science-teacher-removebg-preview_17: -432717094
+      science-teacher-removebg-preview_2: -32713091
+      science-teacher-removebg-preview_7: -1337465443
+      science-teacher-removebg-preview_25: -791858911
+      science-teacher-removebg-preview_26: 624368745
+      science-teacher-removebg-preview_19: 1604122630
+      science-teacher-removebg-preview_5: 144921441
+      science-teacher-removebg-preview_12: -1483592446
+      science-teacher-removebg-preview_8: 1058114612
+      science-teacher-removebg-preview_16: 2075234508
+      science-teacher-removebg-preview_14: -2067025360
+      science-teacher-removebg-preview_28: -1249327653
+      science-teacher-removebg-preview_6: 1801469981
+      science-teacher-removebg-preview_15: -1164448998
+      science-teacher-removebg-preview_13: 347645061
+      science-teacher-removebg-preview_27: 287209046
+      science-teacher-removebg-preview_24: 867108390
+      science-teacher-removebg-preview_18: 548683204
+      science-teacher-removebg-preview_9: -315299467
+      science-teacher-removebg-preview_10: 894251061
+      science-teacher-removebg-preview_22: -1458199452
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

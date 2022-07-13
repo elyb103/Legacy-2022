@@ -1,0 +1,2114 @@
+fileFormatVersion: 2
+guid: ccd77397f325c8f4eb497d11cf2e352e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Showcase 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff4066785417004792dd602fed8eeb0
+      internalID: -211667339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7b5ebd648e0614799208e18185439d
+      internalID: 1541123397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca0270907533145917bb8c6deba023
+      internalID: -1544892724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1504d0e9511864b924ce8ed8fbe0f8
+      internalID: 1192224457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d552cf0eb600a04ab7a26cb6835cf39
+      internalID: 242617108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c070b6486b5a04dbf8be37f5d90fc8
+      internalID: 1388885348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8584882dd0e6446acaad8278ccc358
+      internalID: 332405380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69632519167b1ac4385467c0f369851c
+      internalID: -1935856881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 979.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f8ccd8124b7740b1d2f473312468e
+      internalID: -1521245322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1993073f15a08594386984271594df66
+      internalID: 1672966594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6eb545a79f2e64a835585a4e5ebb16
+      internalID: 313764118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f416cf6c0308264e86626ba1cb28333
+      internalID: -967551984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8ce44456ad5c41b5d6761b9e8be2f
+      internalID: -2083224614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dadbe5b048dd7439ec52e2ec7eff9f
+      internalID: 2036913733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e74ab3990ebcf478844114d1a7f588
+      internalID: -2138874584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c838682871bf708439d2caf5eb5b4bcc
+      internalID: -262635694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9d6e438504fc45a42dec5bced587a
+      internalID: 509307697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 871.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d917adbe6718a714fbeb550b348fede5
+      internalID: -383037297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ee72cf2dac1524e9fcf4ef6fa7b4d0
+      internalID: 93773655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04361eafd7193bf4ea0122d5ece57f00
+      internalID: 1212752005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc95a874b08164aa4d19099dcc3fc3
+      internalID: -1798786510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f87d7d1c7b07a4ea69f2d4f287fdb1
+      internalID: 66814562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9268c997686fe834a95f49cd12973c6e
+      internalID: 312868264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1bffade6ec5a4089f437a53303240
+      internalID: -1032279909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525d48c9d61a1644797cc9d15ef401b8
+      internalID: 271454442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d395062d78f1b4483f3d06db663d4f
+      internalID: 1597684044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 763.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc128167a047a4e8a77969a55e4a13
+      internalID: 1166582900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc771da737f9fb41a7109c8502d1813
+      internalID: 1837472710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11898902ecf25c418b66c6941c33dbf
+      internalID: -1964562721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50aa35c3a8533e4e90c54aef1e23391
+      internalID: -397905748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c321c85765ce7459e63657c910abea
+      internalID: 1878254594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2628556da36404c92e7cade455c654
+      internalID: 489800872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f445951b41735842978bbbf686ecd5e
+      internalID: -1388866923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 652
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ef076442fde8b40b692ab0942c497f
+      internalID: -996489590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fa2fa3f96c67349acd1bb3a52e6206
+      internalID: 1821248546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 655.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324eff307f4dabb48b0c496964cf628c
+      internalID: 168047086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0abde3ca37650a4a9374ae61d7ddde6
+      internalID: 1350718219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f5a52da18d35498b6d192e5e73e24
+      internalID: 979526631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf258cfbea295a24eaadfa91a974e3d0
+      internalID: 1111899853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ce3728b0199846b42073c5ef697f7
+      internalID: -1725890227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a3cd6a3f5e9e49932d66b9b51e5cc
+      internalID: -1421604710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb22bc3e363a024b84717c172ba50ef
+      internalID: -2022222404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c8834aa240b34ca10e5ec96982bf6
+      internalID: 1899759891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_43
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f08329456d79e418fc11291d9d015e
+      internalID: -794973601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 547.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff09dd87e487c47a8d4fad515c8889
+      internalID: -1279910017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc7196ba635a634493737046eb41604
+      internalID: -1435148534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0f5e27e8d2f1940ace01cf94f012c8
+      internalID: 171522536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326abf2c3cebaac418e511275e83e2cc
+      internalID: -1248089388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7fe7213dc4c24bb36fad3a1cb3589
+      internalID: 1706374130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c4891c1b4ab3479d01582110239e3
+      internalID: 1698082278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0211a3db955a6de4babf5d1cc4677461
+      internalID: -131700614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a0a6c611c019489247cd41ab8e10d
+      internalID: 1200535584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_52
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1d5b3ace1f234db612fd804a13fdb
+      internalID: 1541782153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 439.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcdc60f52ade5048ae6d72ce5ebf35a
+      internalID: 948445617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75739149104c1cf4a8b70501cf5b3854
+      internalID: -1365994316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01b960cd77b2a4583161ba615b6bcd
+      internalID: -1307421122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ee871b5a90d1940892aed6444baa4e
+      internalID: -571254628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928e69d0001530c49b17d908d3520678
+      internalID: 1979944373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49475ba1e9c115047b32deeae9ad0e8c
+      internalID: 332607423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aa008cc0068614eb43328f5817e83d
+      internalID: 601419858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64567c96041918c48963b21f32e0b60e
+      internalID: -982621131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_61
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee46d60c8bf0a849916ad16cb3f7531
+      internalID: 1871219217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_62
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 331.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a1d4677ef499489644564125d179f
+      internalID: -461279233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a12576193249434b872d7b088a945db
+      internalID: 1085543235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7ced2c81b5ea44accbcff62dd05cc
+      internalID: -1442204819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5c7a5543d0c8644be3455fa2a51360
+      internalID: 2022890994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd04a2ccabb454b9dd229a5a339c61
+      internalID: -297011658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3d4aea1768684f8116b15bcdb80a8
+      internalID: 1308070445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7addbe495bfb32f43b1e6933866358ff
+      internalID: -76422551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb9cd1f34ff7d6438b655bd2fd6708c
+      internalID: -1151728347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_70
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c335e3bdc8320af4aa6fea4aed6ff494
+      internalID: 62294780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_71
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 223.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57114bcf53e3b2429ae523e0cf2e94c
+      internalID: 929440362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10dbc80a517da498ceff02d164cac7
+      internalID: 386101833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de5d932b969b44cabc1c34cf92f1d3
+      internalID: -566663429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f285f91c8bc7449b836c208bbcca2c
+      internalID: -808414579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eeec1dc7bed6c42b1bf2f1e51cd4a3
+      internalID: -1696367342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e24bcd77c4fa4e85b10aaa01fb16a
+      internalID: -1127032674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31343193c392f294f8dc0ae75005623f
+      internalID: 359991749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d136127c1c8e4f84c9090c40ccf3e015
+      internalID: -675236424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_79
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52dfc52dc473054e8ecf1a9a60fccbc
+      internalID: -1658069805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_80
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 115.2
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f619b25b92bccb4e88993411c1f2542
+      internalID: -104576872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03632713fc263448bb01785833babb2
+      internalID: 1822398106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f7c01bc6daba4b9e19f17a82e4924
+      internalID: -834473611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f268ba637ceb54f90e74e1995ea505
+      internalID: -1724127604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857a06a5a9c44241b61aa1afbb8c0f8
+      internalID: -690636972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dad474525f42846ae786b1eee3b5d5
+      internalID: -535047930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eef08ab2583f54a83cb705c7e16c26
+      internalID: -394988257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3781a4c3017b1b408b10b7207029ed6
+      internalID: -232798231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_88
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedeba71150045e46a47ea5b55884336
+      internalID: -1621504087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Showcase 4_89
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7.199997
+        width: 120.888885
+        height: 108.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f673485bd4741478fe7cfa13a2c96b
+      internalID: 204874741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Showcase 4_12: -2083224614
+      Showcase 4_48: 1706374130
+      Showcase 4_74: -808414579
+      Showcase 4_63: 1085543235
+      Showcase 4_88: -1621504087
+      Showcase 4_27: 1837472710
+      Showcase 4_32: -1388866923
+      Showcase 4_62: -461279233
+      Showcase 4_55: -1307421122
+      Showcase 4_71: 929440362
+      Showcase 4_73: -566663429
+      Showcase 4_5: 1388885348
+      Showcase 4_23: -1032279909
+      Showcase 4_39: -1725890227
+      Showcase 4_15: -262635694
+      Showcase 4_14: -2138874584
+      Showcase 4_7: -1935856881
+      Showcase 4_79: -1658069805
+      Showcase 4_2: -1544892724
+      Showcase 4_67: 1308070445
+      Showcase 4_22: 312868264
+      Showcase 4_16: 509307697
+      Showcase 4_6: 332405380
+      Showcase 4_38: 1111899853
+      Showcase 4_17: -383037297
+      Showcase 4_9: 1672966594
+      Showcase 4_31: 489800872
+      Showcase 4_66: -297011658
+      Showcase 4_64: -1442204819
+      Showcase 4_65: 2022890994
+      Showcase 4_30: 1878254594
+      Showcase 4_36: 1350718219
+      Showcase 4_81: 1822398106
+      Showcase 4_82: -834473611
+      Showcase 4_52: 1541782153
+      Showcase 4_18: 93773655
+      Showcase 4_75: -1696367342
+      Showcase 4_21: 66814562
+      Showcase 4_43: -794973601
+      Showcase 4_56: -571254628
+      Showcase 4_10: 313764118
+      Showcase 4_68: -76422551
+      Showcase 4_76: -1127032674
+      Showcase 4_50: -131700614
+      Showcase 4_33: -996489590
+      Showcase 4_54: -1365994316
+      Showcase 4_85: -535047930
+      Showcase 4_49: 1698082278
+      Showcase 4_35: 168047086
+      Showcase 4_11: -967551984
+      Showcase 4_83: -1724127604
+      Showcase 4_78: -675236424
+      Showcase 4_24: 271454442
+      Showcase 4_26: 1166582900
+      Showcase 4_13: 2036913733
+      Showcase 4_70: 62294780
+      Showcase 4_80: -104576872
+      Showcase 4_60: -982621131
+      Showcase 4_89: 204874741
+      Showcase 4_77: 359991749
+      Showcase 4_34: 1821248546
+      Showcase 4_69: -1151728347
+      Showcase 4_47: -1248089388
+      Showcase 4_1: 1541123397
+      Showcase 4_41: -2022222404
+      Showcase 4_87: -232798231
+      Showcase 4_37: 979526631
+      Showcase 4_57: 1979944373
+      Showcase 4_59: 601419858
+      Showcase 4_46: 171522536
+      Showcase 4_61: 1871219217
+      Showcase 4_40: -1421604710
+      Showcase 4_86: -394988257
+      Showcase 4_51: 1200535584
+      Showcase 4_29: -397905748
+      Showcase 4_58: 332607423
+      Showcase 4_3: 1192224457
+      Showcase 4_0: -211667339
+      Showcase 4_20: -1798786510
+      Showcase 4_19: 1212752005
+      Showcase 4_25: 1597684044
+      Showcase 4_45: -1435148534
+      Showcase 4_28: -1964562721
+      Showcase 4_53: 948445617
+      Showcase 4_72: 386101833
+      Showcase 4_84: -690636972
+      Showcase 4_44: -1279910017
+      Showcase 4_42: 1899759891
+      Showcase 4_4: 242617108
+      Showcase 4_8: -1521245322
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

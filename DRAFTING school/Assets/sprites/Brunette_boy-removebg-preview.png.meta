@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: c2dd3505bfed1374e8aa5f1badd58f19
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130.66666
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabc83deb3935b54880d9473de0f7c47
+      internalID: 86740228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 130.66666
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd80caf687cc1e4da731bed2fa99cf3
+      internalID: 447097986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 130.66666
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f541c45815b24c9f1cc5171e19096
+      internalID: -1766263802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 130.66666
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c773fa6a6ce42504687512d2a5687871
+      internalID: -1719547154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130.66666
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b259d942c69443acdcc9e4732cea5
+      internalID: 850470994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65.666664
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd102c1bbbda0c04894f6e96cec5362e
+      internalID: -1137300868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 65.666664
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fda0e04e5f9f24288c25d4bd9b36f7
+      internalID: 822053642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65.666664
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2499fe279003f4a83011872905f2e7
+      internalID: -1940070169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65.666664
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899384836ab84da4e91fab6aef0bb55a
+      internalID: 817398214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 65.666664
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ab6b13540a80428cc47d27ab1e35b
+      internalID: 1178831151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666641
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c27fe7307d124ca33a3a29f91c64b
+      internalID: 578631216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0.6666641
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f28057c1b71249add883af1905634
+      internalID: -241230635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0.6666641
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8d0e5bb0b68047ae53d9d0c1cf065
+      internalID: -1375585824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0.6666641
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d760da3273348488dff943eefe2cdf
+      internalID: 700278006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunette_boy-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0.6666641
+        width: 55.2
+        height: 65.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb05d729a22e14eb3d762f1f590c91
+      internalID: 43503421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Brunette_boy-removebg-preview_0: 86740228
+      Brunette_boy-removebg-preview_2: -1766263802
+      Brunette_boy-removebg-preview_3: -1719547154
+      Brunette_boy-removebg-preview_10: 578631216
+      Brunette_boy-removebg-preview_6: 822053642
+      Brunette_boy-removebg-preview_9: 1178831151
+      Brunette_boy-removebg-preview_4: 850470994
+      Brunette_boy-removebg-preview_7: -1940070169
+      Brunette_boy-removebg-preview_8: 817398214
+      Brunette_boy-removebg-preview_13: 700278006
+      Brunette_boy-removebg-preview_14: 43503421
+      Brunette_boy-removebg-preview_1: 447097986
+      Brunette_boy-removebg-preview_12: -1375585824
+      Brunette_boy-removebg-preview_11: -241230635
+      Brunette_boy-removebg-preview_5: -1137300868
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
